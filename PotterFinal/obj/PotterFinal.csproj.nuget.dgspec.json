@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stik/RiderProjects/se320final/PotterFinal/PotterFinal.csproj": {}
+    "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj": {}
   },
   "projects": {
-    "/Users/stik/RiderProjects/se320final/PotterFinal/PotterFinal.csproj": {
+    "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stik/RiderProjects/se320final/PotterFinal/PotterFinal.csproj",
+        "projectUniqueName": "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj",
         "projectName": "PotterFinal",
-        "projectPath": "/Users/stik/RiderProjects/se320final/PotterFinal/PotterFinal.csproj",
-        "packagesPath": "/Users/stik/.nuget/packages/",
-        "outputPath": "/Users/stik/RiderProjects/se320final/PotterFinal/obj/",
+        "projectPath": "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj",
+        "packagesPath": "/Users/jalenmyers/.nuget/packages/",
+        "outputPath": "/Users/jalenmyers/se320final/PotterFinal/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/stik/.nuget/NuGet/NuGet.Config"
+          "/Users/jalenmyers/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -36,9 +36,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/stik/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/jalenmyers/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

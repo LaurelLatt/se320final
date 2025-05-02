@@ -5848,19 +5848,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/stik/.nuget/packages/": {}
+    "/Users/jalenmyers/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stik/RiderProjects/se320final/PotterFinalTest/PotterFinalTest.csproj",
+      "projectUniqueName": "/Users/jalenmyers/se320final/PotterFinalTest/PotterFinalTest.csproj",
       "projectName": "PotterFinalTest",
-      "projectPath": "/Users/stik/RiderProjects/se320final/PotterFinalTest/PotterFinalTest.csproj",
-      "packagesPath": "/Users/stik/.nuget/packages/",
-      "outputPath": "/Users/stik/RiderProjects/se320final/PotterFinalTest/obj/",
+      "projectPath": "/Users/jalenmyers/se320final/PotterFinalTest/PotterFinalTest.csproj",
+      "packagesPath": "/Users/jalenmyers/.nuget/packages/",
+      "outputPath": "/Users/jalenmyers/se320final/PotterFinalTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/stik/.nuget/NuGet/NuGet.Config"
+        "/Users/jalenmyers/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5872,8 +5872,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/stik/RiderProjects/se320final/PotterFinal/PotterFinal.csproj": {
-              "projectPath": "/Users/stik/RiderProjects/se320final/PotterFinal/PotterFinal.csproj"
+            "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj": {
+              "projectPath": "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj"
             }
           }
         }
@@ -5886,9 +5886,8 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+        "auditMode": "direct"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -5931,30 +5930,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/stik/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/jalenmyers/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Net.Http' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7jgj-8wvc-jh57",
-      "libraryId": "System.Net.Http",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Text.RegularExpressions' 4.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-cmhx-cq75-c4mj",
-      "libraryId": "System.Text.RegularExpressions",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }
