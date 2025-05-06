@@ -1,0 +1,7 @@
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.csproj.AssemblyReference.cache
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.AssemblyInfoInputs.cache
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.AssemblyInfo.cs
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.csproj.CoreCompileInputs.cache
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.sourcelink.json
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/bin/Debug/net8.0/CoverletSourceRootsMapping_PotterFinalTest

@@ -1,0 +1,15 @@
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/bin/Debug/net8.0/PotterFinal
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/bin/Debug/net8.0/PotterFinal.deps.json
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/bin/Debug/net8.0/PotterFinal.runtimeconfig.json
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/bin/Debug/net8.0/PotterFinal.dll
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/bin/Debug/net8.0/PotterFinal.pdb
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/Debug/net8.0/PotterFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/Debug/net8.0/PotterFinal.AssemblyInfoInputs.cache
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/Debug/net8.0/PotterFinal.AssemblyInfo.cs
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/Debug/net8.0/PotterFinal.csproj.CoreCompileInputs.cache
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/Debug/net8.0/PotterFinal.sourcelink.json
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/Debug/net8.0/PotterFinal.dll
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/Debug/net8.0/refint/PotterFinal.dll
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/Debug/net8.0/PotterFinal.pdb
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/Debug/net8.0/PotterFinal.genruntimeconfig.cache
+/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/Debug/net8.0/ref/PotterFinal.dll

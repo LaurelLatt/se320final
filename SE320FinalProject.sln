@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotterFinal", "PotterFinal\PotterFinal.csproj", "{E9840C99-31FC-4123-B743-D6829287D418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotterFinalTest", "PotterFinalTest\PotterFinalTest.csproj", "{73C386B1-B900-48A5-B2B3-157ACE26B5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9840C99-31FC-4123-B743-D6829287D418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9840C99-31FC-4123-B743-D6829287D418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9840C99-31FC-4123-B743-D6829287D418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9840C99-31FC-4123-B743-D6829287D418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C386B1-B900-48A5-B2B3-157ACE26B5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C386B1-B900-48A5-B2B3-157ACE26B5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C386B1-B900-48A5-B2B3-157ACE26B5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C386B1-B900-48A5-B2B3-157ACE26B5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

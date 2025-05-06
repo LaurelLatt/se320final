@@ -1,0 +1,34 @@
+<changelist name="-" date="1746510675875" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.SE320FinalProject/.idea/shelf/-/shelved.patch" />
+  <option name="DESCRIPTION" value="-" />
+  <binary>
+    <option name="BEFORE_PATH" value="PotterFinal/obj/Debug/net8.0/PotterFinal.assets.cache" />
+    <option name="AFTER_PATH" value="PotterFinal/obj/Debug/net8.0/PotterFinal.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.SE320FinalProject/.idea/shelf/-/PotterFinal.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="PotterFinal/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="PotterFinal/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.SE320FinalProject/.idea/shelf/-/project.nuget.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.SE320FinalProject/.idea/shelf/-/PotterFinalTest.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.assets.cache" />
+    <option name="AFTER_PATH" value="PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.SE320FinalProject/.idea/shelf/-/PotterFinalTest.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="PotterFinalTest/obj/Debug/net8.0/PotterFinalTest.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.SE320FinalProject/.idea/shelf/-/PotterFinalTest.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="PotterFinalTest/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="PotterFinalTest/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.SE320FinalProject/.idea/shelf/-/project.nuget1.cache" />
+  </binary>
+</changelist>
