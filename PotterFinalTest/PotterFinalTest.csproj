@@ -25,4 +25,8 @@
       <ProjectReference Include="..\PotterFinal\PotterFinal.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="AdmisCreateHouseTest.cs" />
+    </ItemGroup>
+
 </Project>

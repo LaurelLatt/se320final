@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jalenmyers/se320final/PotterFinalTest/PotterFinalTest.csproj": {}
+    "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/PotterFinalTest.csproj": {}
   },
   "projects": {
-    "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj": {
+    "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/PotterFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj",
+        "projectUniqueName": "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/PotterFinal.csproj",
         "projectName": "PotterFinal",
-        "projectPath": "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj",
-        "packagesPath": "/Users/jalenmyers/.nuget/packages/",
-        "outputPath": "/Users/jalenmyers/se320final/PotterFinal/obj/",
+        "projectPath": "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/PotterFinal.csproj",
+        "packagesPath": "/Users/joshuafisher/.nuget/packages/",
+        "outputPath": "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jalenmyers/.nuget/NuGet/NuGet.Config"
+          "/Users/joshuafisher/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -64,21 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/jalenmyers/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/joshuafisher/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/jalenmyers/se320final/PotterFinalTest/PotterFinalTest.csproj": {
+    "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/PotterFinalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jalenmyers/se320final/PotterFinalTest/PotterFinalTest.csproj",
+        "projectUniqueName": "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/PotterFinalTest.csproj",
         "projectName": "PotterFinalTest",
-        "projectPath": "/Users/jalenmyers/se320final/PotterFinalTest/PotterFinalTest.csproj",
-        "packagesPath": "/Users/jalenmyers/.nuget/packages/",
-        "outputPath": "/Users/jalenmyers/se320final/PotterFinalTest/obj/",
+        "projectPath": "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/PotterFinalTest.csproj",
+        "packagesPath": "/Users/joshuafisher/.nuget/packages/",
+        "outputPath": "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinalTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jalenmyers/.nuget/NuGet/NuGet.Config"
+          "/Users/joshuafisher/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj": {
-                "projectPath": "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj"
+              "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/PotterFinal.csproj": {
+                "projectPath": "/Users/joshuafisher/Desktop/CPSC_Courses/SE320/SE320FinalProject/PotterFinal/PotterFinal.csproj"
               }
             }
           }
@@ -148,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/jalenmyers/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/joshuafisher/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
