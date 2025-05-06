@@ -2,6 +2,7 @@ namespace PotterFinal;
 
 using System.Collections.Generic;
 using Microsoft.Data.Sqlite;
+// would like to see this implement some form of caching
 public class SqliteOps : IDisposable
 {
     private SqliteConnection connection;
