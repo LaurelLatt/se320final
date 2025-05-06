@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj": {}
+    "/Users/laurellatt/RiderProjects/se320final/PotterFinal/PotterFinal.csproj": {}
   },
   "projects": {
-    "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj": {
+    "/Users/laurellatt/RiderProjects/se320final/PotterFinal/PotterFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj",
+        "projectUniqueName": "/Users/laurellatt/RiderProjects/se320final/PotterFinal/PotterFinal.csproj",
         "projectName": "PotterFinal",
-        "projectPath": "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj",
-        "packagesPath": "/Users/jalenmyers/.nuget/packages/",
-        "outputPath": "/Users/jalenmyers/se320final/PotterFinal/obj/",
+        "projectPath": "/Users/laurellatt/RiderProjects/se320final/PotterFinal/PotterFinal.csproj",
+        "packagesPath": "/Users/laurellatt/.nuget/packages/",
+        "outputPath": "/Users/laurellatt/RiderProjects/se320final/PotterFinal/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jalenmyers/.nuget/NuGet/NuGet.Config"
+          "/Users/laurellatt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/jalenmyers/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/laurellatt/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,6 +1,6 @@
 using PotterFinal;
 using System.Collections.Generic;
-using NUnit.Framework;
+using Xunit.Framework;
 namespace PotterFinalTest;
 
 public class AdminCreateHouseTest
