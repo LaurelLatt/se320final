@@ -13,10 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PotterFinalTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d49d1edd55747e630436f882faa9a989bf11233f")]
-
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ecf01bc96194bfbc0e0abf0205da9adaa50f14a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PotterFinalTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PotterFinalTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
