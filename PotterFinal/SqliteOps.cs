@@ -10,6 +10,7 @@ public class SqliteOps : IDisposable
     public SqliteOps()
     {
         string dbPath = Path.Combine(AppContext.BaseDirectory, "potterFinaldb");
+        Console.WriteLine($"dbPath: {dbPath}");
         connection = new SqliteConnection($"Data Source={dbPath}");
         connection.Open();
     }

@@ -2,6 +2,7 @@ using System.Collections.Generic;
 namespace PotterFinal;
 public class House
 {
+    public SqliteOps SqliteOps = new SqliteOps();
     public string Name { get; set; }
     public string Founder { get; set; }
     public string Mascot { get; set; }
@@ -24,34 +25,49 @@ public class House
 
 public class AdminCreateHouse
 {
-    //simulating database with list 
-    //fake list in memory waiting for  real database
-    private List<House> _houseStorage = new List<House>();
+    public SqliteOps SqliteOps = new SqliteOps();
+    
+    public void CreateHouse(string name, string founder, string mascot, List<string> colors, List<string> traits, string description)
+    {
 
-    //adds house to fake list
-    public House CreateHouse(string name, string founder, string mascot, List<string> colors, List<string> traits, string description)
-    {
-        var house = new House(name, founder, mascot, colors, traits, description);
-        _houseStorage.Add(house);//
-        return house;
-    }
-        
-    //returns all houses in fake list
-    public List<House> GetHouseList()
-    {
-        return _houseStorage;
+        string query = @"INSERT INTO Houses(name, founder, mascot, colors, traits, description)
+                        VALUES (@name, @founder, @mascot, @colors, @traits, @description)
+                        ";
+        Dictionary<string, string> queryParams = new Dictionary<string, string>()
+        {
+            { "@name", name },
+            { "@founder", founder },
+            { "@mascot", mascot },
+            { "@colors", string.Join(",", colors) },
+            { "@traits", string.Join(",", traits) },
+            { "@description", description }
+        };
+        SqliteOps.ModifyQueryWithParams(query, queryParams);
     }
     
-    //(dont need this) but find house by name, helping updating description later
-    public House GetHouseByName(string name)
+    public List<string> GetHouseList()
     {
-        return _houseStorage.Find(h => h.Name == name);
+        string query = @"SELECT * FROM Houses";
+        List<string> houses = SqliteOps.SelectQuery(query);
+        return houses;
+    }
+    
+    public string GetHouseByName(string name)
+    {
+        string query = @"SELECT house_id FROM Houses WHERE name = @name";
+        Dictionary<string, string> queryParams = new Dictionary<string, string>()
+        {
+            { "@name", name }
+        };
+        List<string> houseID= SqliteOps.SelectQueryWithParams(query, queryParams);
+        return houseID[0];
     }
 }
 
 //new class update house description
 public class AdminHouseDescription
 {
+    public SqliteOps SqliteOps = new SqliteOps();
     private AdminCreateHouse _houseDataAccess;
 
     public AdminHouseDescription(AdminCreateHouse houseDataAccess)
@@ -62,11 +78,17 @@ public class AdminHouseDescription
     //allow admin update description of existing house
     public bool UpdateHouseDescription(string houseName, string newDescription)
     {
-        var house = _houseDataAccess.GetHouseByName(houseName);
-        if (house != null)
+        string houseID = _houseDataAccess.GetHouseByName(houseName);
+        if (houseID != null)
         {
-            house.Description = newDescription;
-            return true;
+           string query = "UPDATE Houses SET description = @newDescription WHERE house_id = @houseId";
+           Dictionary<string, string> queryParams = new Dictionary<string, string>()
+           {
+               { "@newDescription", newDescription },
+               { "@houseId", houseID }
+           };
+           SqliteOps.ModifyQueryWithParams(query, queryParams);
+           return true;
         }
 
         return false; //house not found
