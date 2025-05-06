@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "XlqP5jVRHR8=",
+  "dgSpecHash": "DcqCJth7WcU=",
   "success": true,
-  "projectFilePath": "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj",
+  "projectFilePath": "/Users/laurellatt/RiderProjects/se320final/PotterFinal/PotterFinal.csproj",
   "expectedPackageFiles": [
-    "/Users/jalenmyers/.nuget/packages/microsoft.data.sqlite/9.0.4/microsoft.data.sqlite.9.0.4.nupkg.sha512",
-    "/Users/jalenmyers/.nuget/packages/microsoft.data.sqlite.core/9.0.4/microsoft.data.sqlite.core.9.0.4.nupkg.sha512",
-    "/Users/jalenmyers/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.10/sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
-    "/Users/jalenmyers/.nuget/packages/sqlitepclraw.core/2.1.10/sqlitepclraw.core.2.1.10.nupkg.sha512",
-    "/Users/jalenmyers/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.10/sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
-    "/Users/jalenmyers/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.10/sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
-    "/Users/jalenmyers/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/Users/laurellatt/.nuget/packages/microsoft.data.sqlite/9.0.4/microsoft.data.sqlite.9.0.4.nupkg.sha512",
+    "/Users/laurellatt/.nuget/packages/microsoft.data.sqlite.core/9.0.4/microsoft.data.sqlite.core.9.0.4.nupkg.sha512",
+    "/Users/laurellatt/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.10/sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "/Users/laurellatt/.nuget/packages/sqlitepclraw.core/2.1.10/sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "/Users/laurellatt/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.10/sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "/Users/laurellatt/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.10/sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "/Users/laurellatt/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

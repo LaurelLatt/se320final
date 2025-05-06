@@ -5848,19 +5848,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/jalenmyers/.nuget/packages/": {}
+    "/Users/laurellatt/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jalenmyers/se320final/PotterFinalTest/PotterFinalTest.csproj",
+      "projectUniqueName": "/Users/laurellatt/RiderProjects/se320final/PotterFinalTest/PotterFinalTest.csproj",
       "projectName": "PotterFinalTest",
-      "projectPath": "/Users/jalenmyers/se320final/PotterFinalTest/PotterFinalTest.csproj",
-      "packagesPath": "/Users/jalenmyers/.nuget/packages/",
-      "outputPath": "/Users/jalenmyers/se320final/PotterFinalTest/obj/",
+      "projectPath": "/Users/laurellatt/RiderProjects/se320final/PotterFinalTest/PotterFinalTest.csproj",
+      "packagesPath": "/Users/laurellatt/.nuget/packages/",
+      "outputPath": "/Users/laurellatt/RiderProjects/se320final/PotterFinalTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jalenmyers/.nuget/NuGet/NuGet.Config"
+        "/Users/laurellatt/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5872,8 +5872,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj": {
-              "projectPath": "/Users/jalenmyers/se320final/PotterFinal/PotterFinal.csproj"
+            "/Users/laurellatt/RiderProjects/se320final/PotterFinal/PotterFinal.csproj": {
+              "projectPath": "/Users/laurellatt/RiderProjects/se320final/PotterFinal/PotterFinal.csproj"
             }
           }
         }
@@ -5930,7 +5930,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/jalenmyers/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/laurellatt/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
